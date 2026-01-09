@@ -139,29 +139,20 @@ Buka browser dan akses: `http://localhost/aquaspace`
 
 ## 📸 Alur Aplikasi & Screenshot
 
-*(Silakan ganti bagian ini dengan screenshot asli dari aplikasimu)*
-
 **1. Halaman Login & Register**
 Pengguna masuk ke sistem. Jika belum punya akun, user dapat mendaftar.
-*(Tempel Screenshot Halaman Login di sini)*
+> ![Login](https://github.com/tir890/UAS_Pemrograman_Web/blob/7aaa3299969122ff1e9c46730297c845d9f6af95/login-uas.png)
 
 **2. Dashboard Utama**
 Halaman sambutan yang menampilkan statistik dan navigasi utama.
-*(Tempel Screenshot Dashboard di sini)*
+> !Dashboard](https://github.com/tir890/UAS_Pemrograman_Web/blob/7aaa3299969122ff1e9c46730297c845d9f6af95/dashboard-aquaspace.png)
 
 **3. Katalog Ikan (Fitur Search & Pagination)**
 Admin dapat mengelola data, User hanya dapat melihat dan mencari.
-*(Tempel Screenshot Katalog dengan tabel/search bar di sini)*
+> ![Katalog](https://github.com/tir890/UAS_Pemrograman_Web/blob/5f05b529cfb1a254da7d03d9822f99a0f0e9e2ef/katalog-ikan-uas.png)
 
 **4. Aquarium Saya (Khusus User)**
 Menampilkan koleksi ikan yang sudah diadopsi dalam tampilan Grid/Kartu.
-*(Tempel Screenshot Halaman Aquarium Saya di sini)*
+> ![Aquarium](https://github.com/tir890/UAS_Pemrograman_Web/blob/7aaa3299969122ff1e9c46730297c845d9f6af95/katalog-ikan-aquaspace.png)
 
 ---
-### Langkah Terakhir (Wajib Dilakukan):
-
-1. **Ambil Screenshot:** Buka aplikasimu, lalu *screenshot* bagian: Login, Dashboard, Katalog (pas ada datanya), dan Aquarium Saya.
-2. **Masukkan ke Folder:** Simpan gambar-gambar itu di folder `assets/img/screenshots/` (buat foldernya dulu).
-3. **Edit README:** Di bagian "Tempel Screenshot...", ganti teksnya dengan kode gambar Markdown. Contoh: `![Login Screen](assets/img/screenshots/login.png)`.
-
-Selesai! Kamu siap submit. Ada lagi yang bisa aku bantu untuk persiapan submitnya?
