@@ -145,7 +145,7 @@ Pengguna masuk ke sistem. Jika belum punya akun, user dapat mendaftar.
 
 **2. Dashboard Utama**
 Halaman sambutan yang menampilkan statistik dan navigasi utama.
-> !Dashboard](https://github.com/tir890/UAS_Pemrograman_Web/blob/7aaa3299969122ff1e9c46730297c845d9f6af95/dashboard-aquaspace.png)
+> ![Dashboard](https://github.com/tir890/UAS_Pemrograman_Web/blob/118f4dd78ab86fcb6a7b645fb51a20fa904bf561/dashboard-aquaspace.png)
 
 **3. Katalog Ikan (Fitur Search & Pagination)**
 Admin dapat mengelola data, User hanya dapat melihat dan mencari.
